@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in Mag
 
 ### **Frontend Development**
 - **JavaScript** (ES6+), **jQuery**, **React.js**
-- **CSS** (Tailwind, Bootstrap, SCSS), **HTML5**
+- **CSS** (Tailwind, Bootstrap), **HTML5**
 
 ### **Backend Development**
 - **PHP**, **MySQL**
