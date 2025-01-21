@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a **Software Developer** with expertise in Mag
 ## 🔗 Connect With Me
 
 - 📧 Email: [arjunkumar15399@gmail.com](mailto:arjunkumar15399@gmail.com)
-- 💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/arjunakumar)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/arjunakumar)
 - 🌐 Portfolio: [Portfolio](https://arjun-webfolio.netlify.app)
 
 ---
