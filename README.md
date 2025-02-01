@@ -1,4 +1,4 @@
-# Hi there, I'm Arjun Kumar! 👋
+# Hi, I'm Arjun Kumar! 👋
 
 Welcome to my GitHub profile! I'm a **Software Developer** with expertise in Magento development and a passion for Full-Stack Development. I enjoy solving complex problems, building scalable solutions, and continuously learning new technologies.
 
